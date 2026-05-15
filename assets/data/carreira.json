@@ -11,7 +11,7 @@
     "photo": "assets/images/1777941201255.jpg",
     "photoAlt": "Foto profissional de Miguel Bueno",
     "summary": "Tenho experiência e habilidades em comunicação, adquiridos através de projetos e formações acadêmicas. E possuo grande interesse nas áreas de dados e análise, me considerando um curioso nato quando se trata de tecnologia.",
-    "cvUrl": "https://docs.google.com/document/d/e/2PACX-1vTmf6ftAQomTpcDxddQ5b1gpNDrD7dLX6OZNlN_YAKisDj3lOAC4NAamVHVgdtYsQ/pub"
+    "cvUrl": "https://drive.google.com/drive/folders/1lxsdtRmkAO_CC-Ei0dIIetfpMJobwMkD?usp=sharing"
   },
   "contacts": [
     {
@@ -19,11 +19,11 @@
       "url": "mailto:miguelfbsiqueira@gmail.com"
     },
     {
-      "label": "linkedin.com/in/miguelfbs",
-      "url": "www.linkedin.com/in/miguelbuenoo"
+      "label": "Conheça meu Linkedin!",
+      "url": "https://www.linkedin.com/in/miguelbuenoo/"
     },
     {
-      "label": "github.com/sarahlima",
+      "label": "Acesse meu GitHub!",
       "url": "https://github.com/miguelfbs"
     }
   ],
