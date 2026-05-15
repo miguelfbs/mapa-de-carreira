@@ -11940,4 +11940,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   border: 1px solid rgba(var(--bs-black-rgb), var(--bs-bg-opacity));
   background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity));
   margin: 2em auto;
+
+  body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "DM Sans", system-ui, -apple-system, sans-serif !important;
 }
