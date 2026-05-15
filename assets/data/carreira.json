@@ -1,78 +1,78 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Miguel Bueno | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Miguel Bueno, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Miguel Bueno",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Miguel Bueno",
+    "headline": "Análise de Dados e Comunicação",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "photoAlt": "Foto profissional de Miguel Bueno",
+    "summary": "Tenho experiência e habilidades em comunicação, adquiridos através de projetos e formações acadêmicas. e possuo grande interesse nas áreas de dados e análise, me considerando um curioso nato quando se trata de tecnologia.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "miguelfbsiqueira@gmail.com",
+      "url": "mailto:miguelfbsiqueira@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/miguelfbs",
+      "url": "www.linkedin.com/in/miguelbuenoo"
     },
     {
       "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "url": "https://github.com/miguelfbs"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Analista de dados e BI Junior",
+      "description": "Responsável por coletar e estruturar dados, criar dashboards visuais e traduzir métricas complexas em relatórios claros e fáceis de entender para apoiar a tomada de decisão.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Comunicação Assertiva e Tradução de Dados.",
+        "Curiosidade Analítica e Resolução de Problemas.",
+        "Escuta Ativa e Empatia Organizacional."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel Avançado",
+        "Comunicação"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Analista de BI / Dados Pleno",
+      "description": "Profissional autônomo que lidera projetos de dados complexos, transformando métricas em dashboards avançados e utilizando o storytelling para direcionar decisões estratégicas junto à liderança.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Pensamento Crítico e Visão de Negócio.",
+        "Liderança por Influência e Negociação.",
+        "Resiliência e Adaptabilidade."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "SQL Avançado",
+        "Data Warehousing e ETL",
+        "Power BI / Tableau Avançado",
+        "Banco de dados",
+        "Criação de Storytelling assertivo"
       ]
     },
     {
       "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "description": "Especialista estratégico que atua como a ponte definitiva entre a engenharia de dados e a alta liderança, transformando relatórios complexos em narrativas visuais e persuasivas que guiam o futuro e as grandes decisões do negócio.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Comunicação Persuasiva e Oratória.",
+        "Empatia com a Audiência.",
+        "Visão Macro e Holística."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Design de Informação e UI/UX para Dados",
+        "Frameworks de Storytelling",
+        "Ferramentas de Apresentação e Visualização Avançada",
+        "Marketing Empresarial"
       ]
     }
   ],
@@ -118,10 +118,6 @@
     {
       "name": "Ingles",
       "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
   ]
 }
